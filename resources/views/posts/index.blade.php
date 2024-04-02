@@ -8,7 +8,7 @@
 <body>
     <table>
         <tr>
-            <th>title</th>
+            <th>タイトル</th>
             <th>本文</th>
         </tr>
         @foreach($posts as $post)
